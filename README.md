@@ -22,4 +22,5 @@ ntroduce el segundo numero: 3
 El resultado de sumar es: 8
 
 
-![""] (,/diagrama.png)
+# Diseño
+![Diagrama de flujo](diagrama.png "Diagrma dee flujo")
